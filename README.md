@@ -37,7 +37,7 @@ In this case length of train_loader is 118 and test_loader is 20.
 
 This is the screenshot of sample train_loader
 
-![alt text](https://github.com/RajidiSahithi/Session5-ERA/blob/main/images/train_loader_sample.png)
+![alt text](https://github.com/RajidiSahithi/SahithiR_Session5_ERA/blob/main/images/train_loader_sample.png)
    
 
 ## BUILD_MODEL
@@ -99,7 +99,7 @@ The tqdm library is used to create a progress bar for the training loop.The trai
 The model is analysed based on Train_Loss,Train_Accuracy and Test_loss and Test_Accuracy
 
 
-![alt text](https://github.com/RajidiSahithi/Session5-ERA/blob/main/images/loss_acc.png)
+![alt text](https://github.com/RajidiSahithi/SahithiR_Session5_ERA/blob/main/images/loss_acc.png)
 
 ## Features
 
