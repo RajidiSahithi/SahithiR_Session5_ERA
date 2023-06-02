@@ -1,4 +1,3 @@
-# SahithiR_Session5_ERA
 # RECOGNIZATION OF HAND WRITTEN DIGITS USING CNN
 Classifing hand-written digits using Convolution Neural Networks(CNN)
 
