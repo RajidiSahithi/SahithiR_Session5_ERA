@@ -287,7 +287,7 @@ Batch size defines the number of samples we use in one epoch to train a neural n
 <br/> A larger batch size means that more data can be processed in parallel, which can speed up the training and reduce the memory requirements.
 <br/> Larger Batch Size will reduce the computation time and increase the amount of memory used.
 
-### etc (you can add more if we missed it here)
+
 
  
 
