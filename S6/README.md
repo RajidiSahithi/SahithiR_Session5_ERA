@@ -251,6 +251,7 @@ Transition Layers are placed at the starting of CNN
 
 ### DropOut
 Deep learning neural networks are likely to quickly overfit a training dataset with few examples.
+<br/>Dropout with zero probability is used in the code at the end of batch normalization. (In assignment code)
 
 <br/>Ensembles of neural networks with different model configurations are known to reduce overfitting, but require the additional computational expense of training and maintaining multiple models.
 
