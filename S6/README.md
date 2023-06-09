@@ -139,6 +139,7 @@ Also, the learning rate doesn’t have to have a fixed value. Learning rate will
  
  ![alt text](https://github.com/RajidiSahithi/SahithiR_S6_ERA/blob/main/Images/lr1.png)  
  
+ <br/> As learning rate is incresing Loss is tending to Zero much faster.
  <pre>             
                   *#*#*#*# *#*#*#*#*#*#*#*# *#*#*#*#*#*#*#*# *#*#*#*#*#*#*#*# *#*#*#*# *#*#*#*# *#*#*#*#*#*#*#*# *#*#*#*#*#*#*#*#        
  </pre>
